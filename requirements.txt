@@ -1,0 +1,4 @@
+streamlit
+groq
+json
+requests
