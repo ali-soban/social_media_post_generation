@@ -241,7 +241,7 @@ def main():
         """, unsafe_allow_html=True)
         
         platform = st.radio(
-            "",  # Hide the label since we have custom icons above
+            "",
             ["Facebook", "Instagram", "LinkedIn"],
             horizontal=True
         )
